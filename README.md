@@ -1,19 +1,20 @@
 # Programando-Orientado-a-Objeto-Corretamente
 Referência pra POO
-![Logo of the project](http://logo_link)
+![Logo of the project](https://github.com/cfrdocarmo/Programando-Orientado-a-Objeto-Corretamente/blob/main/readme_imagens/5b69922dd2b845f283d0892e499afe46.png)
  
 ## Name_of_the_project
  
-... Description
+
+In this repository we have several examples of how to implement object-oriented code in Java. These are test codes that I developed during the studies of the Java Language.
  
  
 ## Technology 
  
 Here are the technologies used in this project.
  
-* Ruby version  x.x.x
-* Rails version x.x.x
-* ...
+* Java version  11
+* Tomcat version 9
+* PostgreSQL
  
  
 ## Services Used
@@ -22,17 +23,7 @@ Here are the technologies used in this project.
 * ...
  
  
-## Ruby Gems
-...
- 
-## Getting started
- 
-* To install gems:
->    $ bundle install
-* To create the bank and do as migrations:
->    $ rake db:create db:migrate db:seed
-* To run the project:
->    $ rails s
+
  
 ## How to use
  
