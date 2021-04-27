@@ -31,12 +31,14 @@ Here are the technologies used in this project.
 ![Home Screen](https://github.com/cfrdocarmo/Programando-Orientado-a-Objeto-Corretamente/blob/main/readme_imagens/ScreenshotInicio.png)
 
 ### 3 - CRUD screen of products
-![CRUD Screen Products]()
+![CRUD Screen Products](https://github.com/cfrdocarmo/Programando-Orientado-a-Objeto-Corretamente/blob/main/readme_imagens/ScreenshotTelaCRUDProdutos.png)
  
  
 ## Features
  
-  - Here will be the features.
+  - CRUD of users and products.
+  - Synchronizes the information with the PostgreSQL database.
+  - Authenticates users to log in to the system.
  
  
 ## Links
