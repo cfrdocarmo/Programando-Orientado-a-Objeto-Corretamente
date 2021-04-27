@@ -55,7 +55,7 @@ Here are the technologies used in this project.
  
 ## Authors
  
-* **Carlos Felipe Ramos do Carmo**: @cfrdocarmo (https://github.com/YOUR_GITHUB_NICKNAME)
+* **Carlos Felipe Ramos do Carmo**: @cfrdocarmo (https://github.com/cfrdocarmo)
  
  
 Please follow github and join us!
