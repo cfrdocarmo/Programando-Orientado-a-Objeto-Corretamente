@@ -24,7 +24,11 @@ Here are the technologies used in this project.
  
 ## How to use
  
-###[Login Sreen]()
+### 1 - Log into the app. For users already registered in the database.
+![Login Sreen](https://github.com/cfrdocarmo/Programando-Orientado-a-Objeto-Corretamente/blob/main/readme_imagens/TelaLogin.png)
+
+### 2 - Initial base screen, with links to the desired option.
+![Home Screen]()
  
  
 ## Features
