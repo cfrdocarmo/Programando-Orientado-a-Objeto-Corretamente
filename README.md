@@ -1,8 +1,8 @@
-# Programando-Orientado-a-Objeto-Corretamente
+
 Referência pra POO
 ![Logo of the project](https://github.com/cfrdocarmo/Programando-Orientado-a-Objeto-Corretamente/blob/main/readme_imagens/5b69922dd2b845f283d0892e499afe46.png)
  
-## Name_of_the_project
+## Programando-Orientado-a-Objeto-Corretamente
  
 
 In this repository we have several examples of how to implement object-oriented code in Java. These are test codes that I developed during the studies of the Java Language.
@@ -20,14 +20,11 @@ Here are the technologies used in this project.
 ## Services Used
  
 * Github
-* ...
- 
- 
 
  
 ## How to use
  
-Here will be the images and descriptions. Principal content.
+###[Login Sreen]()
  
  
 ## Features
