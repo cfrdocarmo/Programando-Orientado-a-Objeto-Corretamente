@@ -44,10 +44,8 @@ Here are the technologies used in this project.
 ## Links
  
   - Link of deployed application: (if has been deployed)
-  - Repository: https://link_of_repository
-    - In case of sensitive bugs like security vulnerabilities, please contact
-      YOUR EMAIL directly instead of using issue tracker. We value your effort
-      to improve the security and privacy of this project!
+  - Repository: https://github.com/cfrdocarmo/Programando-Orientado-a-Objeto-Corretamente/tree/main/curso-jsp
+   
  
  
 ## Versioning
@@ -57,7 +55,7 @@ Here are the technologies used in this project.
  
 ## Authors
  
-* **YOUR NAME**: @YOUR_GITHUB_NICKNAME (https://github.com/YOUR_GITHUB_NICKNAME)
+* **Carlos Felipe Ramos do Carmo**: @cfrdocarmo (https://github.com/YOUR_GITHUB_NICKNAME)
  
  
 Please follow github and join us!
