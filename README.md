@@ -24,27 +24,41 @@ Here are the technologies used in this project.
  
 ## How to use
  
-### 1 - Log into the app. For users already registered in the database.
-![Login Sreen](https://github.com/cfrdocarmo/Programando-Orientado-a-Objeto-Corretamente/blob/main/readme_imagens/TelaLogin.png)
+### 1 - Spring Boot Admin Home Page.
+![Spring Boot Admin Home Page](https://github.com/cfrdocarmo/Projects-with-Spring-Swagger-Spring-Boot-Admin-Design-Patterns-Clean-Code./blob/main/readme_imagens/paginaInicialSpringBootAdmin.png)
 
-### 2 - Initial base screen, with links to the desired option.
-![Home Screen](https://github.com/cfrdocarmo/Programando-Orientado-a-Objeto-Corretamente/blob/main/readme_imagens/ScreenshotInicio.png)
+### 2 - Spring Boot Admin Dashboard.
+![Spring Boot Admin Dashboard Screen](https://github.com/cfrdocarmo/Projects-with-Spring-Swagger-Spring-Boot-Admin-Design-Patterns-Clean-Code./blob/main/readme_imagens/paginaInicialDaAplicacao.png)
 
-### 3 - CRUD screen of products
-![CRUD Screen Products](https://github.com/cfrdocarmo/Programando-Orientado-a-Objeto-Corretamente/blob/main/readme_imagens/ScreenshotTelaCRUDProdutos.png)
+### 3 - Home Swagger.
+
+![Home Swagger Screen](https://github.com/cfrdocarmo/Projects-with-Spring-Swagger-Spring-Boot-Admin-Design-Patterns-Clean-Code./blob/main/readme_imagens/ScreenshotSwaggerInitial.png)
+ 
+### 4 - Swagger Methods Panel.
+
+![Swagger Methods Panel Screen](https://github.com/cfrdocarmo/Projects-with-Spring-Swagger-Spring-Boot-Admin-Design-Patterns-Clean-Code./blob/main/readme_imagens/ScreenshotSwaggerMethodsGet.png)
+
+### 5 - Get Swagger test method.
+
+![Get Swagger test method Screen](https://github.com/cfrdocarmo/Projects-with-Spring-Swagger-Spring-Boot-Admin-Design-Patterns-Clean-Code./blob/main/readme_imagens/ScreenshotSwaggerTestGet.png)
+
+### 6 - Answer Method Get Swagger.
+
+![Answer Method Get Swagger Screen](https://github.com/cfrdocarmo/Projects-with-Spring-Swagger-Spring-Boot-Admin-Design-Patterns-Clean-Code./blob/main/readme_imagens/ScreenshotSwaggerResponseTestGet.png)
+
  
  
 ## Features
  
-  - CRUD of users and products.
-  - Synchronizes the information with the PostgreSQL database.
-  - Authenticates users to log in to the system.
+  - Spring Secutity.
+  - Documentation with Swagger.
+  - Authentication JWT.
  
  
 ## Links
  
   - Link of deployed application: (if has been deployed)
-  - Repository: https://github.com/cfrdocarmo/Programando-Orientado-a-Objeto-Corretamente/tree/main/curso-jsp
+  - Repository: https://github.com/cfrdocarmo/Projects-with-Spring-Swagger-Spring-Boot-Admin-Design-Patterns-Clean-Code
    
  
  
